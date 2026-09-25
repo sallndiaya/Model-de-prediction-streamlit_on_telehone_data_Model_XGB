@@ -21,7 +21,7 @@ st.set_page_config(
 DESCRIPTION = (
     "Ce modèle de machine learning permet de prédire l'état d'un portable en partant "
     "du prix, de l'adresse, de la marque, de la dimension de l'écran, du nombre de RAM "
-    "et du stockage."
+    "et du stockage Model XGB."
 )
 
 
